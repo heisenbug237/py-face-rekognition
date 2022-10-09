@@ -4,7 +4,7 @@ Facial Recognition System using Python (>=3.6)
 ### Setup
 
 ```bash
-git clone heisenbug237/py-face-rekognition
+git clone https://github.com/heisenbug237/py-face-rekognition.git
 cd py-face-rekognition
 pip install -r requirements.txt
 ```
