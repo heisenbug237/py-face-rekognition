@@ -16,3 +16,5 @@ python main.py sample.jpg
 ```bash
 python main.py
 ```
+### Sample Output
+![Output](https://github.com/heisenbug237/py-face-rekognition/blob/main/faces.jpg?raw=true)
