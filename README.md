@@ -1,5 +1,7 @@
 # py-face-rekognition
 Facial Recognition System using Python (>=3.6)
+- Face Detection is based on the Caffe Single Shot Detector ([SSD](https://medium.com/acm-juit/ssd-object-detection-in-real-time-deep-learning-and-caffe-f41e40eea968)) framework with a ResNet10 base network
+- Face Recognition is based on OpenCV's Local Binary Pattern Histogram ([LBPH](https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b)) Algorithm
 
 ### Setup
 
